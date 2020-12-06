@@ -7,8 +7,7 @@ Usage:
   k = number of clusters
   MRI_Image = Color MRI Image (256 x 256 x 3)
   
-Execution:
-    On execution, the function will calculate the clusters present in the original image
+  On execution, the function will calculate the clusters present in the original image
   based on user input and display the original image for visual reference. After, the
   user can strike the return key in the command line of Matlab to continue the execution 
   of the script. The clusters are then displayed in 4 x 4 x i (user defined k value) for use 
