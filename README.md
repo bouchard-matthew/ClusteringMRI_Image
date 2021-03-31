@@ -9,7 +9,7 @@ Usage:
   
   On execution, the function will calculate the clusters present in the original image
   based on user input and display the original image for visual reference. After, the
-  user can strike the return key in the command line of Matlab to continue the execution 
+  user can press the return key in the command line to continue the execution 
   of the script. The clusters are then displayed in 4 x 4 x i (user defined k value) for use 
   in declaring the cluster that contains the tumorous region. The user is then able
   to select the cluster with the tumor region by declaring the cluster region that 
